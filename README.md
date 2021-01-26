@@ -60,5 +60,3 @@ through this process.)
 2. Open the sample into Android Studio.
 3. Build and run the sample. You may need to update gradle and library versions. 
 Follow the guidance provided by Android Studio. 
-
-//test
